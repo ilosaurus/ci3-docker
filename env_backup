@@ -1,0 +1,6 @@
+DB_CONNECTION_GC=Pdo_Mysql
+DB_CONNECTION=mysqli
+DB_HOST=localhost
+DB_DATABASE=jenkins
+DB_USERNAME=root
+DB_PASSWORD=
