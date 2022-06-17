@@ -3,7 +3,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-6">
-                2021 &copy; <strong>Aplikasi E-Laundry</strong> Candra Adi Nugroho
+                2021 
             </div>
         </div>
     </div>
