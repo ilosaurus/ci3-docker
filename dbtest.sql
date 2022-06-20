@@ -44,5 +44,3 @@ INSERT INTO `m_users` VALUES (3, 'Pegawai', 'pegawai', 'WU9ObE1wYUJMdjI4TnJOeTVB
 COMMIT;
 
 SET FOREIGN_KEY_CHECKS = 1;
-
-
